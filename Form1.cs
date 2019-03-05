@@ -15,5 +15,11 @@ namespace DemoConflic
         {
             InitializeComponent();
         }
+
+        public void Test_Branch()
+        {
+            int a = 0;
+            int b = 0;
+        }
     }
 }
