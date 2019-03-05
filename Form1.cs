@@ -16,12 +16,6 @@ namespace DemoConflic
             InitializeComponent();
         }
 
-        public void Test_Master()
-        {
-            int a = 0;
-            int b = 0;
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int a = 0;
