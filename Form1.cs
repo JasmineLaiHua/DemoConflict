@@ -16,7 +16,7 @@ namespace DemoConflic
             InitializeComponent();
         }
 
-        public void Test_Branch()
+        public void Test_Master()
         {
             int a = 0;
             int b = 0;
